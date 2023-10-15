@@ -1,9 +1,9 @@
 {
-  "name": "Lumiere-Userbot",
-  "description": "[Lumiere-Userbot] Buat senang senang doang",
+  "name": "Wahab-Userbot",
+  "description": "[Wahab-Userbot] khusus admin sincitizen ",
   "logo": "https://telegra.ph//file/085b459a7b7a963422eb5.jpg",
   "keywords": ["telegram", "userbot", "Lumiere-Userbot", "modular", "python"],
-  "repository": "https://github.com/NotLumiere/Lumiere-Userbot",
+  "repository": "https://github.com/Wahab-chan/Siuu",
   "stack": "container",
   "env": {
     "API_KEY": {
